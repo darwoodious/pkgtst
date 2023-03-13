@@ -1,0 +1,19 @@
+{
+  "name": "@darwoodious/pkgtst",
+  "version": "1.0.0",
+  "description": "Package Test Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darwoodious/pkgtst.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darwoodious/pkgtst/issues"
+  },
+  "homepage": "https://github.com/darwoodious/pkgtst#readme"
+}
