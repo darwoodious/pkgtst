@@ -16,4 +16,6 @@
     "url": "https://github.com/darwoodious/pkgtst/issues"
   },
   "homepage": "https://github.com/darwoodious/pkgtst#readme"
+  "publishConfig": {
+    "darwoodious:registry": "https://npm.pkg.github.com"
 }
